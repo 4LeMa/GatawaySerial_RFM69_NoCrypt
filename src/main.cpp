@@ -54,7 +54,7 @@
 #define MY_RFM69_MAX_POWER_LEVEL_DBM  (10)   // max. TX power 10dBm = 10mW
 #define MY_RFM69_FREQUENCY RFM69_868MHZ
 #define MY_RFM69_NETWORKID (101)
-#define MY_RFM69_FSK_BR9_6_FD19_2
+#define MY_RFM69_FSK_BR4_8_FD9_6  //MY_RFM69_FSK_BR9_6_FD19_2 
 #define MY_SIGNAL_REPORT_ENABLED
 
 // Enable serial gateway
